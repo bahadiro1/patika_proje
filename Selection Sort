@@ -20,7 +20,7 @@ Best case: Aradığımız sayının dizinin en başında olması.
 ----------------------------------------------------
 [7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.
 
-1.Adım : [2,3,5,8,7,9,4,15,6] 0.index ve 4.index yer değiştirdi.
-2.Adım : [2,3,5,8,7,9,4,15,6] 1.index yerinde kalacak.
-3.Adım : [2,3,4,8,7,9,5,15,6] 2.index ve 6.index yer değiştirdi.
-4.Adım : [2,3,5,6,7,9,4,15,8] 3.index ile 8.index yer değiştirdi.
+1.Adım : [2,3,5,8,7,9,4,15,6] 0.index ile 4.index yer değiştiriyor.
+2.Adım : [2,3,5,8,7,9,4,15,6] 1.index yerinde kalıyor.
+3.Adım : [2,3,4,8,7,9,5,15,6] 2.index ile 6.index yer değiştiriyor.
+4.Adım : [2,3,5,6,7,9,4,15,8] 3.index ile 8.index yer değiştiriyor.
